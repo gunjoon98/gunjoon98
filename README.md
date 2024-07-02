@@ -1,10 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Gun%20Joon&fontSize=60)
 
 ### 🛠 Tech Stack
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-C++-#00599C?logo=c%2B%2B&style=flat">
+<img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=c%2B%2B"></a>
+<img src="https://img.shields.io/badge/-C%23-00599C?style=for-the-badge&logo=Csharp">
+
 ### Follow Me
 
 
