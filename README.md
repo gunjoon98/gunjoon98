@@ -1,5 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=GUN%20JOON&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Gun%20Joon&fontSize=60)
 
+### 🛠 Tech Stack
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-C++-#00599C?logo=c%2B%2B&style=flat">
 ### Follow Me
 
 
