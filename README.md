@@ -1,5 +1,10 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=venom&text=GUN%20JOON&fontSize=60)
 
+### Follow Me
+
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlans321)](https://solved.ac/dlans321/)
 <!--
 **gunjoon98/gunjoon98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
